@@ -1,0 +1,27 @@
+# Ignore build artifacts
+build/
+*.o
+*.d
+
+# Ignore binaries
+bin/
+*.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore user-specific files
+*.user
+*.suo
+*.vcxproj.user
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore environment files
+.env
